@@ -11,7 +11,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // code 1
+        //3333
         // Do any additional setup after loading the view.
+        
+        
+        
+        
+        code
+        // mama
     }
 
 
