@@ -35,7 +35,10 @@ class ViewController: UIViewController {
         
         
         
-        //AppStore 1 
+        //AppStore 1
+        
+        
+        //fix bugs
     }
 
 
