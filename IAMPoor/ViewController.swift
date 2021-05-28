@@ -15,9 +15,7 @@ class ViewController: UIViewController {
         // code 1
         //3333
         // Do any additional setup after loading the view.
-        
-        
-        
+    
         
         //code
         // mama
@@ -25,15 +23,15 @@ class ViewController: UIViewController {
         
         
         
-        // code 2
-        //3333
-        // Do any additional setup after loading the view.
+        // code 2 new
+        //3333 new
+        // Do any additional setup after loading the view. new
         
         
         
         
-        //code 55666
-        // mama
+        //code 55666 new
+        // mama new
     }
 
 
